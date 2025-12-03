@@ -1,6 +1,12 @@
 ## Hi There👋
 
-## Java Developer
+## I'm Java Developer
+
+**Passionate and results-driven Java Developer with expertise in building robust, scalable, and high-performance applications.**
+
+I specialize in the **Spring ecosystem**, developing microservices, and utilizing cloud technologies like **AWS**. Committed to writing clean, maintainable code and following best practices in software development.
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lytiy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrii-zaika-8665b3305) 
